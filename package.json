@@ -1,0 +1,26 @@
+{
+  "name": "dojo-tdd",
+  "version": "1.0.0",
+  "description": " Fazer transferência de dinheiro entre duas contas ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceleradora-TW/dojo-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aceleradora-TW/dojo-tdd/issues"
+  },
+  "homepage": "https://github.com/aceleradora-TW/dojo-tdd#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
